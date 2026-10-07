@@ -1,0 +1,12 @@
+{
+  "title": "Nivel de prueba en línea",
+  "image": "nivel04.webp",
+  "parTimeSec": 90,
+  "type": "rompecabezas",
+  "cols": 4,
+  "rows": 3,
+  "items": [],
+  "decoys": [],
+  "music": "misterio",
+  "story": "Este nivel llegó desde el servidor, sin actualizar la app."
+}
