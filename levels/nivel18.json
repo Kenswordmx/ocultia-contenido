@@ -1,0 +1,81 @@
+{
+  "title": "Metro",
+  "image": "nivel18.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Origami",
+      "x": 0.0077,
+      "y": 0.651,
+      "w": 0.1134,
+      "h": 0.1204,
+      "icon": "icons/nivel18_1.webp",
+      "iconSource": "origami.png"
+    },
+    {
+      "name": "Pato",
+      "x": 0.1481,
+      "y": 0.3802,
+      "w": 0.0347,
+      "h": 0.0475,
+      "icon": "icons/nivel18_2.webp",
+      "iconSource": "pato.png"
+    },
+    {
+      "name": "Pelota",
+      "x": 0.429,
+      "y": 0.6221,
+      "w": 0.044,
+      "h": 0.0544,
+      "icon": "icons/nivel18_3.webp",
+      "iconSource": "pelota.png"
+    },
+    {
+      "name": "Caballo",
+      "x": 0.4606,
+      "y": 0.4578,
+      "w": 0.0363,
+      "h": 0.0752,
+      "icon": "icons/nivel18_4.webp",
+      "iconSource": "caballo.png"
+    },
+    {
+      "name": "Boleto",
+      "x": 0.821,
+      "y": 0.261,
+      "w": 0.0293,
+      "h": 0.0463,
+      "icon": "icons/nivel18_5.webp",
+      "iconSource": "boleto.png"
+    },
+    {
+      "name": "Llavero",
+      "x": 0.7438,
+      "y": 0.7355,
+      "w": 0.027,
+      "h": 0.1204,
+      "icon": "icons/nivel18_6.webp",
+      "iconSource": "llavero.png"
+    },
+    {
+      "name": "Disquete",
+      "x": 0.7716,
+      "y": 0.8547,
+      "w": 0.0502,
+      "h": 0.0775,
+      "icon": "icons/nivel18_7.webp",
+      "iconSource": "disquete.png"
+    },
+    {
+      "name": "Flor",
+      "x": 0.5957,
+      "y": 0.1753,
+      "w": 0.0216,
+      "h": 0.0417,
+      "icon": "icons/nivel18_8.webp",
+      "iconSource": "flor.png"
+    }
+  ],
+  "decoys": [],
+  "story": "La hora pico terminó y la estación quedó casi vacía, pero entre las prisas alguien dejó toda clase de cosas olvidadas, boletos, juguetes y objetos extraños terminaron repartidos por andenes y bancas, antes de que llegue el siguiente tren toca revisar cada rincón y recuperar todo lo perdido"
+}
