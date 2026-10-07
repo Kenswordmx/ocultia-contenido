@@ -1,0 +1,110 @@
+{
+  "id": "caso_whattson",
+  "title": "El misterio del zafiro desaparecido",
+  "intro": "Alguien ha robado un zafiro del museo. Whattson está sobre la pista y, con mi bambú y tu ayuda, ¡lo resolveremos!",
+  "outro": "¡Pandástico! Whattson se une a la investigación.",
+  "stages": [
+    {
+      "type": "find",
+      "title": "Encuentra las pistas",
+      "notes": {
+        "Tela morada": "Parece que el ladrón nos dejó un regalo… ojalá hubiera sido bambú",
+        "Guante blanco": "Un guante blanco… mis sentidos pandosos se han activado",
+        "Estrella": "Dudo que esta estrella sea parte de la exposición",
+        "Varita mágica": "Vaya… ¿nuestro sospechoso es un mago?",
+        "Pelos blancos": "¡¡Pandástico!! Pelos negros y blancos"
+      },
+      "image": "challenges/img/desafiowhattson.webp",
+      "items": [
+        {
+          "x": 0.3821,
+          "y": 0.2766,
+          "w": 0.0616,
+          "h": 0.1505,
+          "name": "Tela morada"
+        },
+        {
+          "x": 0.1418,
+          "y": 0.7796,
+          "w": 0.1066,
+          "h": 0.112,
+          "name": "Guante blanco"
+        },
+        {
+          "x": 0.5625,
+          "y": 0.4865,
+          "w": 0.0315,
+          "h": 0.0595,
+          "name": "Estrella"
+        },
+        {
+          "x": 0.8581,
+          "y": 0.4308,
+          "w": 0.04,
+          "h": 0.193,
+          "name": "Varita mágica"
+        },
+        {
+          "x": 0.421,
+          "y": 0.5133,
+          "w": 0.1189,
+          "h": 0.0791,
+          "name": "Pelos blancos"
+        }
+      ],
+      "decoys": [
+        {
+          "x": 0.1894,
+          "y": 0.4908,
+          "w": 0.1186,
+          "h": 0.1693,
+          "name": "¿Una lupa sin sentido?"
+        },
+        {
+          "x": 0.3753,
+          "y": 0.7422,
+          "w": 0.1123,
+          "h": 0.1214,
+          "name": "Solo vidrio…"
+        }
+      ]
+    },
+    {
+      "type": "choose",
+      "prompt": "Las pistas no mienten. El culpable es…",
+      "options": [
+        {
+          "name": "Madame Noctis",
+          "rect": [
+            0.3312,
+            0.0669,
+            0.302,
+            0.9059
+          ]
+        },
+        {
+          "name": "Félix",
+          "rect": [
+            0.6477,
+            0.0332,
+            0.3283,
+            0.9217
+          ]
+        },
+        {
+          "name": "Otto",
+          "rect": [
+            0.0425,
+            0.0253,
+            0.2598,
+            0.9197
+          ]
+        }
+      ],
+      "answer": 1,
+      "right": "¡Exactamente! La tela, el guante y la estrella lo delataron",
+      "wrong": "Eso no cuadra con las pistas.",
+      "image": "challenges/img/whattsonsospechosos.webp"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "niveles": {
+    "nivel01": [["Pócimas de abuela", "Las mejores recetas mágicas nacen en una cocina. Te lo digo yo."]],
+    "nivel02": [["Agua salada…", "Prefiero los canales de Xochimilco, pero un barco pirata también tiene encanto."]],
+    "nivel03": [["¡Mi laboratorio!", "Bueno, no es mío… pero reconozco cada frasco. No toques el verde."]],
+    "nivel04": [["Juguetes encantados", "Dicen que de noche los juguetes despiertan. Busca antes de que oscurezca."]],
+    "nivel05": [["Por fin, agua", "Aquí respiro tranquilo. Mis branquias y yo te guiamos."]],
+    "nivel06": [["El bosque susurra", "Hongos que brillan y árboles que miran. Este lugar tiene magia antigua."]],
+    "nivel07": [["Magia entre estrellas", "Las constelaciones también son hechizos. Lee el cielo."]],
+    "nivel08": [["Seres de otro mundo", "Los alienígenas me miran raro. Como si un ajolote mago fuera extraño."]],
+    "nivel09": [["Hogar de hechiceros", "Todo castillo mágico guarda un grimorio. Encontrémoslo."]],
+    "nivel10": [["Ilusiones de feria", "La magia de feria es puro truco. La mía es de verdad."]],
+    "nivel11": [["Tierra seca", "Sin agua me pongo nervioso. Rápido, aprendiz."]],
+    "nivel12": [["Un mago en el oeste", "Ningún vaquero desenfunda más rápido que un hechizo bien lanzado."]],
+    "nivel13": [["Hechizo de sonido", "Esos aparatos capturan voces. Casi como un conjuro."]],
+    "nivel14": [["Pociones de amor", "Esta telenovela necesita un mago que arregle tanto enredo."]]
+  },
+  "trofeos": {
+    "trofeo_1": [["Artefacto encantado", "Esta brújula tiene un hechizo antiguo: señala deseos, no caminos."]],
+    "trofeo_2": [["Retrato embrujado", "Si lo miras mucho, la mandarina parpadea. Créeme."]]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "title": "Barco pirata",
+  "image": "nivel02.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Isla del tesoro",
+      "x": 0.6768,
+      "y": 0.1345,
+      "w": 0.0609,
+      "h": 0.0483
+    },
+    {
+      "name": "Barco pirata",
+      "x": 0.5243,
+      "y": 0.0843,
+      "w": 0.0369,
+      "h": 0.0446
+    },
+    {
+      "name": "Joya azul",
+      "x": 0.2994,
+      "y": 0.6139,
+      "w": 0.018,
+      "h": 0.0186
+    },
+    {
+      "name": "Rubí",
+      "x": 0.1708,
+      "y": 0.6515,
+      "w": 0.031,
+      "h": 0.027
+    },
+    {
+      "name": "Doblón de oro",
+      "x": 0.4655,
+      "y": 0.2075,
+      "w": 0.0092,
+      "h": 0.0124
+    },
+    {
+      "name": "Esmeralda",
+      "x": 0.1854,
+      "y": 0.4932,
+      "w": 0.0168,
+      "h": 0.0229
+    },
+    {
+      "name": "Ostra",
+      "x": 0.4408,
+      "y": 0.1276,
+      "w": 0.0229,
+      "h": 0.0233
+    },
+    {
+      "name": "Sextante",
+      "x": 0.4284,
+      "y": 0.3847,
+      "w": 0.0729,
+      "h": 0.1089
+    },
+    {
+      "name": "Caracola",
+      "x": 0.0375,
+      "y": 0.5464,
+      "w": 0.0327,
+      "h": 0.0401
+    },
+    {
+      "name": "Argolla",
+      "x": 0.8783,
+      "y": 0.01,
+      "w": 0.0587,
+      "h": 0.0485
+    }
+  ],
+  "music": "pirata",
+  "story": "El capitán Barbagris dejó su camarote en desorden antes de zarpar hacia una isla sin nombre. Dicen que entre mapas y cofres escondió las pistas de su último tesoro. Encuéntralas antes de que vuelva la tripulación."
+}

@@ -1,0 +1,22 @@
+{
+  "niveles": {
+    "nivel01": [["¿Hay atún?", "Las abuelas siempre guardan algo rico para los gatos. Busquemos."]],
+    "nivel02": [["Miau a bordo", "Los barcos siempre llevan un gato. Soy la tripulación más importante."]],
+    "nivel03": [["Esto huele raro", "Si algo burbujea, yo no lo toco. Tú sí puedes."]],
+    "nivel04": [["¡Cajas!", "Un ático lleno de cajas. Este es mi paraíso."]],
+    "nivel05": [["Pescaditos…", "Tantos peces y ninguno para mí. Qué injusticia."]],
+    "nivel06": [["Ojos en la oscuridad", "Los gatos vemos en la noche. Tú usa el zoom."]],
+    "nivel07": [["Miau-stronauta", "Sin gravedad no puedo tirar cosas de la mesa. Qué aburrido."]],
+    "nivel08": [["¿Gatos de otro planeta?", "Si hay vida aquí, seguro tiene bigotes."]],
+    "nivel09": [["Reina Michi", "Un castillo me queda perfecto. Tráeme mis objetos, súbdito."]],
+    "nivel10": [["Demasiado ruido", "Las ferias me erizan la cola. Busca rápido y vámonos a dormir."]],
+    "nivel11": [["Arena por todos lados", "Esta es la caja de arena más grande que he visto."]],
+    "nivel12": [["Michi el forastero", "Este pueblo es muy pequeño para los dos… ratones."]],
+    "nivel13": [["Micrófono abierto", "Miau, miau, probando. ¿Me escuchan mis fans?"]],
+    "nivel14": [["Gato de telenovela", "En toda telenovela hay un gato que lo sabe todo. Ese soy yo."]]
+  },
+  "trofeos": {
+    "trofeo_1": [["Una aguja que gira", "Me encanta perseguir esa flechita. ¿Puedo tirarla del pedestal?"]],
+    "trofeo_2": [["Muy dramático", "Ese cuadro tiene más drama que yo cuando mi plato está vacío."]]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "wings": [
+    {
+      "id": "ala_1",
+      "name": "Gran Salón",
+      "background": "museum/salas/ala_1.webp",
+      "_fuente": "principal.png",
+      "slots": [
+        {
+          "x": 0.0689,
+          "y": 0.6202,
+          "w": 0.0984,
+          "h": 0.0942,
+          "id": "slot_1",
+          "type": "pedestal_small",
+          "lockedVisible": true
+        },
+        {
+          "x": 0.4447,
+          "y": 0.3828,
+          "w": 0.0931,
+          "h": 0.1055,
+          "id": "slot_3",
+          "type": "wall_frame",
+          "lockedVisible": true
+        }
+      ],
+      "doors": [],
+      "unlockRule": {
+        "type": "always"
+      }
+    }
+  ],
+  "trophies": [
+    {
+      "id": "trofeo_1",
+      "name": "Brújula del capitán",
+      "description": "Perteneció a un capitán que jamás reveló su verdadero destino, se dice que siempre apuntará a lo que más se desea",
+      "rarity": "common",
+      "image": "museum/trofeos/trofeo_1.webp",
+      "_fuente": "brujula.png",
+      "levelId": "nivel02",
+      "wingId": "ala_1",
+      "slotId": "slot_1",
+      "collectionId": "",
+      "discoverAtStars": 1,
+      "unlockAtStars": 3
+    },
+    {
+      "id": "trofeo_2",
+      "name": "Cuadro de la Frutinovela",
+      "description": "Amor, traición y vitamina C. Encontraste todos los secretos de la Frutinovela.",
+      "rarity": "uncommon",
+      "image": "museum/trofeos/trofeo_2.webp",
+      "_fuente": "cuadro.png",
+      "levelId": "nivel14",
+      "wingId": "ala_1",
+      "slotId": "slot_3",
+      "collectionId": "",
+      "discoverAtStars": 1,
+      "unlockAtStars": 3,
+      "canvas": "museum/trofeos/trofeo_2_lienzo.webp"
+    }
+  ],
+  "collections": []
+}

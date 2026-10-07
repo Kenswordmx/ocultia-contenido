@@ -1,0 +1,93 @@
+{
+  "name": "Michi",
+  "price": 300,
+  "challenge": "objeto_perdido_michi",
+  "lines": {
+    "inicio": [
+      [
+        "¡Miau!",
+        "Huelo algo escondido por aquí"
+      ],
+      [
+        "¡A cazar!",
+        "Bueno… a buscar. Es lo mismo"
+      ]
+    ],
+    "racha": [
+      [
+        "¡Miau-ravilloso!",
+        "Tienes ojos de gato"
+      ],
+      [
+        "¡Purrrfecto!",
+        "Sigue así"
+      ]
+    ],
+    "animo": [
+      [
+        "Miau…",
+        "Yo me escondería en una caja. Busca ahí"
+      ],
+      [
+        "*bosteza*",
+        "¿Pido una pista o tomo una siesta?"
+      ]
+    ],
+    "ultimo": [
+      [
+        "¡Solo uno!",
+        "Lo tengo en la mira… *mueve la cola*"
+      ]
+    ],
+    "fallos": [
+      [
+        "¡Fff!",
+        "Me estás despeinando con tantos fallos"
+      ]
+    ],
+    "falso": [
+      [
+        "¡Jijiji!",
+        "Ese era de mentiritas, miau"
+      ],
+      [
+        "¡Miau-ja!",
+        "Te engañé como al ratón"
+      ],
+      [
+        "¡Nop!",
+        "Ni con mis siete vidas era ese"
+      ]
+    ],
+    "temblor": [
+      [
+        "¡MIAAAU!",
+        "¡Se mueve todo! ¡Mis bigotes!"
+      ]
+    ],
+    "tiempo": [
+      [
+        "¡Corre!",
+        "¡Más rápido que un gato con hambre!"
+      ]
+    ],
+    "victoria": [
+      [
+        "¡Miau-gnífico!",
+        "Te mereces una lata de atún"
+      ]
+    ],
+    "derrota": [
+      [
+        "Miau…",
+        "Hasta los gatos fallan a veces"
+      ]
+    ],
+    "compra": [
+      [
+        "¡Prrr!",
+        "Gracias, humano"
+      ]
+    ]
+  }
+}

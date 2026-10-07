@@ -1,0 +1,97 @@
+{
+  "title": "Frutinovela",
+  "image": "nivel14.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Corona",
+      "x": 0.3562,
+      "y": 0.248,
+      "w": 0.0887,
+      "h": 0.0918,
+      "icon": "icons/nivel14_1.webp",
+      "iconSource": "corona.png"
+    },
+    {
+      "name": "Varita",
+      "x": 0.5461,
+      "y": 0.7299,
+      "w": 0.118,
+      "h": 0.0679,
+      "icon": "icons/nivel14_2.webp",
+      "iconSource": "varita.png"
+    },
+    {
+      "name": "Control",
+      "x": 0.413,
+      "y": 0.6793,
+      "w": 0.0816,
+      "h": 0.0905,
+      "icon": "icons/nivel14_3.webp",
+      "iconSource": "control.png"
+    },
+    {
+      "name": "Mandarina",
+      "x": 0.2435,
+      "y": 0.0564,
+      "w": 0.039,
+      "h": 0.0559,
+      "icon": "icons/nivel14_4.webp",
+      "iconSource": "mandarina.png"
+    },
+    {
+      "name": "Cuadro",
+      "x": 0.8567,
+      "y": 0.0138,
+      "w": 0.1145,
+      "h": 0.2023,
+      "icon": "icons/nivel14_5.webp",
+      "iconSource": "cuadro.png"
+    },
+    {
+      "name": "Castillo",
+      "x": 0.3092,
+      "y": 0.6274,
+      "w": 0.047,
+      "h": 0.0705,
+      "icon": "icons/nivel14_6.webp",
+      "iconSource": "castillo.png"
+    },
+    {
+      "name": "Gato",
+      "x": 0.634,
+      "y": 0.1402,
+      "w": 0.0701,
+      "h": 0.1012,
+      "icon": "icons/nivel14_7.webp",
+      "iconSource": "gato.png"
+    },
+    {
+      "name": "Rana",
+      "x": 0.1015,
+      "y": 0.5342,
+      "w": 0.0736,
+      "h": 0.0958,
+      "icon": "icons/nivel14_8.webp",
+      "iconSource": "rana.png"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Corona",
+      "x": 0.0226,
+      "y": 0.7898,
+      "w": 0.126,
+      "h": 0.1238
+    },
+    {
+      "name": "Mandarina",
+      "x": 0.799,
+      "y": 0.2427,
+      "w": 0.1296,
+      "h": 0.177
+    }
+  ],
+  "story": "En la telenovela más jugosa de la televisión, la mandarina descubrió un secreto que lo cambiará todo. Entre coronas, cuadros y miradas dramáticas, las pistas están escondidas en cada escena. ¿Quién traicionó a quién?",
+  "music": "telenovela"
+}

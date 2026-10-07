@@ -1,0 +1,95 @@
+{
+  "title": "Podcast",
+  "image": "nivel13.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Casco",
+      "x": 0.0226,
+      "y": 0.0,
+      "w": 0.0825,
+      "h": 0.0961,
+      "icon": "icons/nivel13_1.webp",
+      "iconSource": "casco.png"
+    },
+    {
+      "name": "Luna",
+      "x": 0.9224,
+      "y": 0.4475,
+      "w": 0.0328,
+      "h": 0.0626,
+      "icon": "icons/nivel13_2.webp",
+      "iconSource": "luna.png"
+    },
+    {
+      "name": "Platillo",
+      "x": 0.8061,
+      "y": 0.5566,
+      "w": 0.0603,
+      "h": 0.0759,
+      "iconSource": "platillo volador.png",
+      "icon": "icons/nivel13_3.webp"
+    },
+    {
+      "name": "Fantasma",
+      "x": 0.4689,
+      "y": 0.4435,
+      "w": 0.0302,
+      "h": 0.0532,
+      "icon": "icons/nivel13_4.webp",
+      "iconSource": "fantasma.png"
+    },
+    {
+      "name": "Pato",
+      "x": 0.2365,
+      "y": 0.4568,
+      "w": 0.047,
+      "h": 0.0599,
+      "icon": "icons/nivel13_5.webp",
+      "iconSource": "pato.png"
+    },
+    {
+      "name": "Garfio",
+      "x": 0.2666,
+      "y": 0.152,
+      "w": 0.0435,
+      "h": 0.0892,
+      "icon": "icons/nivel13_6.webp",
+      "iconSource": "garfio.png"
+    },
+    {
+      "name": "Lámpara",
+      "x": 0.7999,
+      "y": 0.168,
+      "w": 0.0319,
+      "h": 0.1012,
+      "icon": "icons/nivel13_7.webp",
+      "iconSource": "lampara.png"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Doble pata",
+      "x": 0.1136,
+      "y": 0.6392,
+      "w": 0.0772,
+      "h": 0.1111
+    },
+    {
+      "name": "Control raro",
+      "x": 0.8728,
+      "y": 0.7469,
+      "w": 0.1011,
+      "h": 0.1412
+    },
+    {
+      "name": "Platillo",
+      "x": 0.1238,
+      "y": 0.0655,
+      "w": 0.055,
+      "h": 0.0586
+    }
+  ],
+  "music": "lofi",
+  "story": "Faltan minutos para grabar el episodio más esperado del podcast y el estudio está lleno de recuerdos, juguetes y cables. El anfitrión no encuentra sus cosas favoritas. Ayúdale antes de que se encienda la luz roja."
+}

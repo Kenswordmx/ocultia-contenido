@@ -1,0 +1,127 @@
+{
+  "title": "Desierto postapocalíptico",
+  "image": "nivel11.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Lentes rojos",
+      "x": 0.1204,
+      "y": 0.6871,
+      "w": 0.0875,
+      "h": 0.0816,
+      "icon": "icons/nivel11_1.webp",
+      "iconSource": "Lentes rojos.png"
+    },
+    {
+      "name": "Cráneo",
+      "x": 0.5382,
+      "y": 0.2033,
+      "w": 0.0832,
+      "h": 0.1419,
+      "icon": "icons/nivel11_2.webp",
+      "iconSource": "Craneo.png"
+    },
+    {
+      "name": "Máscara",
+      "x": 0.0619,
+      "y": 0.1447,
+      "w": 0.0939,
+      "h": 0.2043,
+      "icon": "icons/nivel11_3.webp",
+      "iconSource": "mascara.png"
+    },
+    {
+      "name": "Máscara de gas",
+      "x": 0.9013,
+      "y": 0.3802,
+      "w": 0.0986,
+      "h": 0.0956,
+      "icon": "icons/nivel11_4.webp",
+      "iconSource": "mascara de gas.png"
+    },
+    {
+      "name": "Camioneta",
+      "x": 0.6752,
+      "y": 0.2644,
+      "w": 0.0765,
+      "h": 0.0574,
+      "icon": "icons/nivel11_5.webp",
+      "iconSource": "camioneta.png"
+    },
+    {
+      "name": "Carrito",
+      "x": 0.4457,
+      "y": 0.7304,
+      "w": 0.0725,
+      "h": 0.0644,
+      "icon": "icons/nivel11_6.webp",
+      "iconSource": "carrito.png"
+    },
+    {
+      "name": "Bola de picos",
+      "x": 0.0767,
+      "y": 0.816,
+      "w": 0.1275,
+      "h": 0.1701,
+      "icon": "icons/nivel11_7.webp",
+      "iconSource": "bola de picos.png"
+    },
+    {
+      "name": "Atrapa sueños",
+      "x": 0.9154,
+      "y": 0.205,
+      "w": 0.0584,
+      "h": 0.1479,
+      "icon": "icons/nivel11_8.webp",
+      "iconSource": "atrapasueños.png"
+    },
+    {
+      "name": "Torre",
+      "x": 0.6692,
+      "y": 0.0168,
+      "w": 0.0845,
+      "h": 0.1298,
+      "iconSource": "torre de petroleo.png",
+      "icon": "icons/nivel11_9.webp"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Lentes",
+      "x": 0.1464,
+      "y": 0.4371,
+      "w": 0.0967,
+      "h": 0.0785
+    },
+    {
+      "name": "Lentes",
+      "x": 0.0035,
+      "y": 0.4369,
+      "w": 0.0802,
+      "h": 0.1053
+    },
+    {
+      "name": "Lentes",
+      "x": 0.0,
+      "y": 0.6522,
+      "w": 0.1031,
+      "h": 0.11
+    },
+    {
+      "name": "Máscara de gas",
+      "x": 0.2242,
+      "y": 0.6313,
+      "w": 0.0965,
+      "h": 0.1551
+    },
+    {
+      "name": "Máscara",
+      "x": 0.7682,
+      "y": 0.6996,
+      "w": 0.1258,
+      "h": 0.2465
+    }
+  ],
+  "music": "desierto",
+  "story": "Después de la gran tormenta, el desierto se llenó de chatarra, vehículos y campamentos improvisados. Aquí los viajeros sobreviven intercambiando lo que encuentran. Busca entre el metal oxidado los objetos más valiosos."
+}

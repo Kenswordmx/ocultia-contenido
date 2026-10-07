@@ -1,0 +1,72 @@
+{
+  "title": "Ático de juguetes",
+  "image": "nivel04.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Gatito",
+      "x": 0.9305,
+      "y": 0.0065,
+      "w": 0.0314,
+      "h": 0.0586
+    },
+    {
+      "name": "Avión",
+      "x": 0.194,
+      "y": 0.0205,
+      "w": 0.1227,
+      "h": 0.095
+    },
+    {
+      "name": "Rosa",
+      "x": 0.9094,
+      "y": 0.3564,
+      "w": 0.0876,
+      "h": 0.046
+    },
+    {
+      "name": "Lámpara",
+      "x": 0.6094,
+      "y": 0.2737,
+      "w": 0.0315,
+      "h": 0.0946
+    },
+    {
+      "name": "Urna",
+      "x": 0.329,
+      "y": 0.1878,
+      "w": 0.0183,
+      "h": 0.0516
+    },
+    {
+      "name": "Candelabro",
+      "x": 0.5648,
+      "y": 0.366,
+      "w": 0.0309,
+      "h": 0.0753
+    },
+    {
+      "name": "Brújula",
+      "x": 0.3986,
+      "y": 0.4475,
+      "w": 0.0388,
+      "h": 0.0557
+    },
+    {
+      "name": "Jarra",
+      "x": 0.4688,
+      "y": 0.2033,
+      "w": 0.0268,
+      "h": 0.0691
+    },
+    {
+      "name": "Casa",
+      "x": 0.4543,
+      "y": 0.3801,
+      "w": 0.0371,
+      "h": 0.0492
+    }
+  ],
+  "music": "acogedor",
+  "story": "En el ático de la casa duermen los juguetes de varias generaciones. Una tarde de lluvia alguien subió a buscar recuerdos y encontró un caos de cajas y baúles. ¿Qué secretos guardan esos viejos juguetes?"
+}

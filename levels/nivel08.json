@@ -1,0 +1,88 @@
+{
+  "title": "Planeta alienígena",
+  "image": "nivel08.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Casco",
+      "x": 0.5413,
+      "y": 0.4994,
+      "w": 0.056,
+      "h": 0.0921
+    },
+    {
+      "name": "Lagarto",
+      "x": 0.0513,
+      "y": 0.098,
+      "w": 0.1045,
+      "h": 0.0984
+    },
+    {
+      "name": "Hongos de luz",
+      "x": 0.054,
+      "y": 0.5359,
+      "w": 0.0822,
+      "h": 0.1385
+    },
+    {
+      "name": "Farola",
+      "x": 0.3432,
+      "y": 0.2315,
+      "w": 0.0269,
+      "h": 0.0883
+    },
+    {
+      "name": "Brújula",
+      "x": 0.0444,
+      "y": 0.7011,
+      "w": 0.0746,
+      "h": 0.086
+    },
+    {
+      "name": "Llave",
+      "x": 0.2752,
+      "y": 0.5781,
+      "w": 0.0591,
+      "h": 0.0478
+    },
+    {
+      "name": "Isla",
+      "x": 0.6963,
+      "y": 0.0338,
+      "w": 0.0557,
+      "h": 0.092
+    },
+    {
+      "name": "Rubí",
+      "x": 0.8023,
+      "y": 0.832,
+      "w": 0.0554,
+      "h": 0.0875
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Lagarto",
+      "x": 0.8616,
+      "y": 0.432,
+      "w": 0.0867,
+      "h": 0.0856
+    },
+    {
+      "name": "Hongos de luz",
+      "x": 0.8962,
+      "y": 0.6706,
+      "w": 0.0913,
+      "h": 0.1712
+    },
+    {
+      "name": "Llave",
+      "x": 0.2767,
+      "y": 0.6759,
+      "w": 0.0844,
+      "h": 0.0875
+    }
+  ],
+  "music": "espacio",
+  "story": "Una nave de exploración aterrizó en un planeta desconocido. Sus habitantes, muy curiosos, tomaron prestadas algunas cosas de los astronautas. Encuéntralas entre plantas extrañas y rocas que flotan."
+}

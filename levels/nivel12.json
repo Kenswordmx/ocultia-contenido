@@ -1,0 +1,104 @@
+{
+  "title": "Viaje al oeste",
+  "image": "nivel12.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Cactus",
+      "x": 0.4931,
+      "y": 0.7614,
+      "w": 0.081,
+      "h": 0.0836,
+      "icon": "icons/nivel12_1.webp",
+      "iconSource": "cactus.png"
+    },
+    {
+      "name": "Escopeta",
+      "x": 0.162,
+      "y": 0.2386,
+      "w": 0.1003,
+      "h": 0.505,
+      "icon": "icons/nivel12_2.webp",
+      "iconSource": "escopeta.png"
+    },
+    {
+      "name": "Herradura",
+      "x": 0.9591,
+      "y": 0.2241,
+      "w": 0.0378,
+      "h": 0.0613,
+      "icon": "icons/nivel12_3.webp",
+      "iconSource": "herradura.png"
+    },
+    {
+      "name": "Lámpara",
+      "x": 0.125,
+      "y": 0.01,
+      "w": 0.0841,
+      "h": 0.1995,
+      "icon": "icons/nivel12_4.webp",
+      "iconSource": "lampara.png"
+    },
+    {
+      "name": "Sombrero",
+      "x": 0.0,
+      "y": 0.5931,
+      "w": 0.1528,
+      "h": 0.1159,
+      "icon": "icons/nivel12_5.webp",
+      "iconSource": "sombrero.png"
+    },
+    {
+      "name": "Reloj",
+      "x": 0.2963,
+      "y": 0.8439,
+      "w": 0.0679,
+      "h": 0.087,
+      "icon": "icons/nivel12_6.webp",
+      "iconSource": "reloj.png"
+    },
+    {
+      "name": "Lámpara",
+      "x": 0.9082,
+      "y": 0.4593,
+      "w": 0.0687,
+      "h": 0.1639,
+      "icon": "icons/nivel12_7.webp",
+      "iconSource": "lampara.png"
+    },
+    {
+      "name": "Estrella",
+      "x": 0.3287,
+      "y": 0.0903,
+      "w": 0.0448,
+      "h": 0.0903,
+      "icon": "icons/nivel12_8.webp",
+      "iconSource": "estrella.png"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Cactus",
+      "x": 0.3781,
+      "y": 0.592,
+      "w": 0.1343,
+      "h": 0.1148
+    },
+    {
+      "name": "Herradura",
+      "x": 0.483,
+      "y": 0.4381,
+      "w": 0.0671,
+      "h": 0.1148
+    },
+    {
+      "name": "Lámpara",
+      "x": 0.2739,
+      "y": 0.3913,
+      "w": 0.0463,
+      "h": 0.1249
+    }
+  ],
+  "story": "Llegó una diligencia al pueblo de Polvo Rojo y con ella muchos rumores. El sheriff necesita ayuda: entre sillas de montar, barriles y faroles hay cosas fuera de lugar. Encuéntralas antes de que caiga el sol.",
+  "music": "oeste"
+}

@@ -1,0 +1,22 @@
+{
+  "niveles": {
+    "nivel01": [["¿Hay bambú en la alacena?", "No importa, también como galletas. Por la investigación."]],
+    "nivel02": [["Panda pirata", "¿Me veo bien con parche? Sherlock dice que no, pero yo digo que sí."]],
+    "nivel03": [["Ciencia pandástica", "Si mezclamos todo, ¿sale bambú? Mejor no lo probemos."]],
+    "nivel04": [["¡Un peluche como yo!", "Ah no, es un oso normal. Pero tiene estilo."]],
+    "nivel05": [["Pandas al agua", "Los pandas no nadamos mucho… pero buscamos muy bien."]],
+    "nivel06": [["Esto me suena", "Bosque, bambú… ah, no, eso es otro árbol. Sigamos."]],
+    "nivel07": [["Un panda en el espacio", "Primer panda astronauta. Sherlock, toma la foto."]],
+    "nivel08": [["Saludos, alienígenas", "Vengo en son de paz… y de búsqueda de objetos."]],
+    "nivel09": [["Su majestad, el panda", "Si encontramos la corona, ¿me la puedo probar?"]],
+    "nivel10": [["¡Quiero algodón de azúcar!", "Primero las pistas, luego los dulces. Eso dice el manual."]],
+    "nivel11": [["Muy pocas plantas", "Aquí no crece ni un brote de bambú. Encontremos todo y vámonos."]],
+    "nivel12": [["Yija, compañero", "Sherlock es el sheriff. Yo soy el ayudante con mejor sombrero."]],
+    "nivel13": [["Hola, hola, ¿se escucha?", "Bienvenidos al podcast de Whattson. Hoy: cosas escondidas."]],
+    "nivel14": [["Esto es más intenso que mi serie favorita", "¿La mandarina engañó a la piña? Necesito saberlo."]]
+  },
+  "trofeos": {
+    "trofeo_1": [["Brújula pandástica", "Le pregunté dónde hay bambú y apuntó a la cocina. Funciona."]],
+    "trofeo_2": [["¡Qué drama!", "Ese cuadro me hizo llorar. O tal vez fue la cebolla de la cocina."]]
+  }
+}

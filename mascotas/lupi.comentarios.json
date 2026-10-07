@@ -1,0 +1,22 @@
+{
+  "niveles": {
+    "nivel01": [["Huele a pan recién hecho", "En las cocinas de abuela siempre hay algo escondido… y algo rico."]],
+    "nivel02": [["¡Todos a bordo!", "Los piratas escondían tesoros. Nosotros los encontramos."]],
+    "nivel03": [["No toques nada… todavía", "Aquí una cuchara puede ser una varita. Mira dos veces."]],
+    "nivel04": [["Recuerdos empolvados", "Cada juguete de este ático tiene una historia. Y un escondite."]],
+    "nivel05": [["Glub, glub", "Bajo el agua todo brilla distinto. Fíjate en los reflejos."]],
+    "nivel06": [["Pasos suaves", "En el bosque las cosas se esconden entre hojas y sombras."]],
+    "nivel07": [["Gravedad cero", "Aquí los objetos flotan… y se esconden en cualquier rincón."]],
+    "nivel08": [["¿Hola, marcianos?", "Nada aquí es lo que parece. Por eso me encanta."]],
+    "nivel09": [["Un castillo de verdad", "Torres, banderas y secretos. Empieza por las alturas."]],
+    "nivel10": [["¡A la feria!", "Entre tantas luces, lo difícil es ver lo que no brilla."]],
+    "nivel11": [["Polvo y metal", "En el desierto se recicla todo. Hasta los escondites."]],
+    "nivel12": [["Pueblo del oeste", "Nadie desenfunda más rápido que tus ojos."]],
+    "nivel13": [["¡Al aire!", "Estudio de podcast: cables, micrófonos y muchas cosas fuera de lugar."]],
+    "nivel14": [["Drama frutal", "Aquí hasta la fruta tiene secretos de telenovela."]]
+  },
+  "trofeos": {
+    "trofeo_1": [["La brújula del capitán", "Dicen que apunta a lo que más deseas. La mía apunta al siguiente misterio."]],
+    "trofeo_2": [["Obra maestra", "Amor, traición y vitamina C. Qué bonito cuadro."]]
+  }
+}

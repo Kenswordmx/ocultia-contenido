@@ -1,0 +1,93 @@
+{
+  "name": "Sherlock",
+  "price": 400,
+  "challenge": "caso_sherlock",
+  "lines": {
+    "inicio": [
+      [
+        "Caso abierto",
+        "Las pistas están por todas partes"
+      ],
+      [
+        "¡Guau!",
+        "Este lugar esconde secretos"
+      ]
+    ],
+    "racha": [
+      [
+        "¡Elemental!",
+        "Mi querido detective"
+      ],
+      [
+        "¡Brillante!",
+        "Ni Scotland Yard es tan rápido"
+      ]
+    ],
+    "animo": [
+      [
+        "Observa…",
+        "No basta con ver, hay que observar"
+      ],
+      [
+        "Mmm…",
+        "Revisa las sombras. Los culpables se esconden ahí"
+      ]
+    ],
+    "ultimo": [
+      [
+        "¡El último sospechoso!",
+        "Ya casi resolvemos el caso"
+      ]
+    ],
+    "fallos": [
+      [
+        "Detective…",
+        "Las acusaciones al azar no resuelven casos"
+      ]
+    ],
+    "falso": [
+      [
+        "¡Un impostor!",
+        "Esa pista era falsa, colega"
+      ],
+      [
+        "¡Guau, guau!",
+        "Elemental: ese no era"
+      ],
+      [
+        "¡Objeción!",
+        "Copia barata. Siga investigando"
+      ]
+    ],
+    "temblor": [
+      [
+        "¡Por mi sombrero!",
+        "¡Un terremoto en plena investigación!"
+      ]
+    ],
+    "tiempo": [
+      [
+        "¡Rápido!",
+        "El culpable se nos escapa"
+      ]
+    ],
+    "victoria": [
+      [
+        "¡Caso cerrado!",
+        "Un trabajo digno de un gran detective"
+      ]
+    ],
+    "derrota": [
+      [
+        "Caso pendiente…",
+        "Todo buen detective vuelve a la escena"
+      ]
+    ],
+    "compra": [
+      [
+        "¡Guau!",
+        "Excelente adquisición para la investigación"
+      ]
+    ]
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "title": "Casa de la abuela",
+  "image": "nivel01.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Ave",
+      "x": 0.1093,
+      "y": 0.3086,
+      "w": 0.05,
+      "h": 0.0696
+    },
+    {
+      "name": "Dulcero",
+      "x": 0.4114,
+      "y": 0.1865,
+      "w": 0.0243,
+      "h": 0.025
+    },
+    {
+      "name": "Taza",
+      "x": 0.8056,
+      "y": 0.0943,
+      "w": 0.0273,
+      "h": 0.0365
+    },
+    {
+      "name": "Pato",
+      "x": 0.675,
+      "y": 0.0525,
+      "w": 0.037,
+      "h": 0.0551
+    },
+    {
+      "name": "Flor azul",
+      "x": 0.6722,
+      "y": 0.2316,
+      "w": 0.0203,
+      "h": 0.0274
+    },
+    {
+      "name": "Azucarero",
+      "x": 0.3176,
+      "y": 0.1037,
+      "w": 0.0152,
+      "h": 0.0261
+    },
+    {
+      "name": "Mantequilla",
+      "x": 0.3011,
+      "y": 0.6073,
+      "w": 0.0515,
+      "h": 0.0446
+    },
+    {
+      "name": "Perro",
+      "x": 0.0565,
+      "y": 0.3135,
+      "w": 0.0307,
+      "h": 0.0613
+    },
+    {
+      "name": "Casa de aves",
+      "x": 0.5252,
+      "y": 0.0317,
+      "w": 0.049,
+      "h": 0.0745
+    },
+    {
+      "name": "Vaquita",
+      "x": 0.8787,
+      "y": 0.3914,
+      "w": 0.0546,
+      "h": 0.0702
+    },
+    {
+      "name": "Cuchara",
+      "x": 0.5233,
+      "y": 0.2892,
+      "w": 0.026,
+      "h": 0.0741
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Flor azul",
+      "x": 0.6171,
+      "y": 0.6221,
+      "w": 0.0225,
+      "h": 0.03
+    },
+    {
+      "name": "Cuchara",
+      "x": 0.7867,
+      "y": 0.2822,
+      "w": 0.0187,
+      "h": 0.0503
+    }
+  ],
+  "music": "acogedor",
+  "story": "La abuela preparó su famoso pan para la merienda, pero la cocina quedó hecha un lío. Entre frascos, flores y manteles hay cosas que nadie encuentra desde hace años. ¿Las ayudas a aparecer antes de que se enfríe el pan?"
+}

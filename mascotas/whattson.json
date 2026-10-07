@@ -1,0 +1,187 @@
+{
+  "name": "Whattson",
+  "price": 400,
+  "challenge": "caso_whattson",
+  "lines": {
+    "inicio": [
+      [
+        "¡Elemental!",
+        "Sherlock nos encargó este caso"
+      ],
+      [
+        "¿Hueles eso?",
+        "Es el olor de un misterio"
+      ],
+      [
+        "Libreta lista",
+        "Anotaré cada pista que encuentres"
+      ]
+    ],
+    "racha": [
+      [
+        "¿Viste eso?",
+        "¡Es una gran habilidad!"
+      ],
+      [
+        "¡WOW!",
+        "¡Eso fue pandástico!"
+      ],
+      [
+        "¡Increíble!",
+        "Sherlock estaría orgulloso"
+      ]
+    ],
+    "animo": [
+      [
+        "Y si…",
+        "¿Y si tocamos a lo loco para encontrar algo? Es broma…"
+      ],
+      [
+        "Mmm…",
+        "Un buen detective revisa cada rincón"
+      ],
+      [
+        "*mastica bambú*",
+        "Pensar con hambre no funciona… sigue buscando"
+      ]
+    ],
+    "ultimo": [
+      [
+        "Está tan cerca…",
+        "Que casi puedo tocarlo…"
+      ],
+      [
+        "¡Atención!",
+        "Solo una pista más"
+      ]
+    ],
+    "fallos": [
+      [
+        "Esto es confuso…",
+        "No estarás tocando cosas al azar, ¿o sí?"
+      ],
+      [
+        "Ejem…",
+        "Hasta mi bambú apunta mejor"
+      ]
+    ],
+    "falso": [
+      [
+        "¡Rayos!",
+        "Eso era una pista falsa"
+      ],
+      [
+        "Concéntrate",
+        "Concéntrate, joven detective: esa era una pista falsa"
+      ],
+      [
+        "¡Ajá… no!",
+        "El culpable dejó una copia para engañarnos"
+      ]
+    ],
+    "temblor": [
+      [
+        "¡¡Un terremoto!!",
+        "¡Justo cuando había encontrado el rastro!"
+      ],
+      [
+        "¿Un terremoto…?",
+        "¿Ahora? ¿En este lugar? ¿Justo hoy?"
+      ]
+    ],
+    "brujula": [
+      [
+        "Vamos por la pista",
+        "¡Sigamos el camino!"
+      ],
+      [
+        "Necesitamos ayuda",
+        "¡La brújula nunca miente!"
+      ]
+    ],
+    "congelar": [
+      [
+        "Soy yo o…",
+        "Hace frío aquí… ¡se congeló el reloj!"
+      ],
+      [
+        "Tiempo fuera",
+        "Vamos a calmarnos"
+      ]
+    ],
+    "radar": [
+      [
+        "¡Radar activado!",
+        "Las pistas están dentro de los círculos"
+      ],
+      [
+        "Bip… bip…",
+        "Mi olfato de panda detecta algo"
+      ]
+    ],
+    "tiempo": [
+      [
+        "¡Se acaba el tiempo!",
+        "¡Rápido, que el culpable escapa!"
+      ],
+      [
+        "¡Corre, detective!",
+        "¡Últimos segundos!"
+      ]
+    ],
+    "victoria": [
+      [
+        "¡Caso resuelto!",
+        "Le contaré a Sherlock lo bien que lo hiciste"
+      ],
+      [
+        "¡Pandástico!",
+        "Ese reto no tuvo oportunidad"
+      ]
+    ],
+    "derrota": [
+      [
+        "Caso sin resolver…",
+        "Pero ningún misterio se nos escapa dos veces"
+      ],
+      [
+        "Uy…",
+        "Sherlock no tiene por qué enterarse de esto"
+      ]
+    ],
+    "compra": [
+      [
+        "¡Excelente compra!",
+        "Esto ayudará en la investigación"
+      ],
+      [
+        "¡Gracias!",
+        "Prometo no comérmelo… si no es bambú"
+      ]
+    ],
+    "sin_monedas": [
+      [
+        "Mmm…",
+        "Nos faltan monedas. Resolvamos más casos"
+      ]
+    ],
+    "premio_pistas": [
+      [
+        "¡Pistas nuevas!",
+        "+2 pistas para el expediente"
+      ]
+    ],
+    "premio_monedas": [
+      [
+        "¡Monedas!",
+        "+50 para el fondo de investigación"
+      ]
+    ],
+    "sin_videos": [
+      [
+        "Ups…",
+        "No hay videos ahora. Intenta en un rato"
+      ]
+    ]
+  }
+}

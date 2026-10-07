@@ -1,0 +1,22 @@
+{
+  "niveles": {
+    "nivel01": [["La escena del pastel", "Migajas en la mesa: alguien probó antes de tiempo. Sigamos el rastro."]],
+    "nivel02": [["Caso en alta mar", "Un pirata nunca esconde su tesoro donde lo esperas. Deduce."]],
+    "nivel03": [["Evidencia química", "Las manchas en la mesa cuentan qué se mezcló. Observa los frascos."]],
+    "nivel04": [["Pistas del pasado", "El polvo no miente: lo que no tiene polvo se movió hace poco."]],
+    "nivel05": [["Investigación submarina", "Aquí las pistas flotan. Literalmente."]],
+    "nivel06": [["Huellas en el musgo", "Ningún bosque es silencioso si sabes escuchar. Y mirar."]],
+    "nivel07": [["Misterio en órbita", "Ni en el espacio escapa un objeto a un buen detective."]],
+    "nivel08": [["Contacto extraterrestre", "Elemental: si es raro, es de aquí. Si es normal, es sospechoso."]],
+    "nivel09": [["Intriga en la corte", "En un castillo siempre hay pasadizos. Y en los pasadizos, pistas."]],
+    "nivel10": [["Caso de la feria", "Entre tanta gente, el culpable se esconde a plena vista."]],
+    "nivel11": [["Rastros en la arena", "En el desierto las huellas duran poco. Actúa rápido."]],
+    "nivel12": [["Se busca", "Un sheriff y un detective en el mismo pueblo. Esto será interesante."]],
+    "nivel13": [["Episodio de crimen real", "Todo buen podcast necesita un detective invitado. Aquí estoy."]],
+    "nivel14": [["El caso de la fruta traicionada", "Motivo: celos. Arma: una cáscara. Busquemos las pruebas."]]
+  },
+  "trofeos": {
+    "trofeo_1": [["Prueba número uno", "Una brújula que nunca apunta al norte. Fascinante. Sospechosamente fascinante."]],
+    "trofeo_2": [["Retrato del sospechoso", "Esa mirada de mandarina esconde algo. Lo anoto en mi libreta."]]
+  }
+}

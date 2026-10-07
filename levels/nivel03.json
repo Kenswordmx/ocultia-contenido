@@ -1,0 +1,72 @@
+{
+  "title": "Laboratorio mágico",
+  "image": "nivel03.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Luna",
+      "x": 0.1013,
+      "y": 0.1371,
+      "w": 0.0403,
+      "h": 0.0716
+    },
+    {
+      "name": "Poción de amor",
+      "x": 0.4211,
+      "y": 0.1776,
+      "w": 0.0148,
+      "h": 0.0568
+    },
+    {
+      "name": "Poción de maná",
+      "x": 0.257,
+      "y": 0.528,
+      "w": 0.0301,
+      "h": 0.0863
+    },
+    {
+      "name": "Taza cósmica",
+      "x": 0.8518,
+      "y": 0.6003,
+      "w": 0.0609,
+      "h": 0.0864
+    },
+    {
+      "name": "Vela",
+      "x": 0.5991,
+      "y": 0.3643,
+      "w": 0.0215,
+      "h": 0.0671
+    },
+    {
+      "name": "Pergamino",
+      "x": 0.3468,
+      "y": 0.3565,
+      "w": 0.0577,
+      "h": 0.0335
+    },
+    {
+      "name": "Poción de vida",
+      "x": 0.9625,
+      "y": 0.0792,
+      "w": 0.0323,
+      "h": 0.097
+    },
+    {
+      "name": "Sol oculto",
+      "x": 0.5768,
+      "y": 0.1886,
+      "w": 0.014,
+      "h": 0.0274
+    },
+    {
+      "name": "Estrella",
+      "x": 0.7687,
+      "y": 0.1068,
+      "w": 0.0134,
+      "h": 0.0236
+    }
+  ],
+  "music": "magia",
+  "story": "Un aprendiz de mago intentó un hechizo para ordenar el laboratorio… y todo salió volando. Ahora los ingredientes están revueltos entre libros, frascos y velas. Encuentra cada uno antes de que alguna pócima explote."
+}

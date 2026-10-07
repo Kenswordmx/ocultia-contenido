@@ -1,0 +1,83 @@
+{
+  "id": "invocar_ajolomago",
+  "title": "El ritual perdido",
+  "intro": "Encuentra los ingredientes y completa el hechizo de invocación.",
+  "outro": "¡El hechizo funcionó! Has invocado al Ajolomago.",
+  "stages": [
+    {
+      "type": "find",
+      "title": "Encuentra los ingredientes",
+      "foundTitle": "¡Ingrediente!",
+      "decoy": [
+        "Ese no…",
+        "No es un ingrediente del hechizo"
+      ],
+      "notes": {
+        "Cristal azul": "Si este cristal mágico funcionara…",
+        "Hongo rojo": "¿Hongos, flores y muchos colores?",
+        "Poción verde": "No recuerdo si es esta la poción o es moco de gato… ¡no importa, seguro funcionará!",
+        "Pluma dorada": "Una pluma de gallina de oro, justo lo que necesito"
+      },
+      "image": "challenges/img/desafioajolomago.webp",
+      "items": [
+        {
+          "x": 0.6104,
+          "y": 0.371,
+          "w": 0.0304,
+          "h": 0.061,
+          "name": "Cristal azul"
+        },
+        {
+          "x": 0.848,
+          "y": 0.2278,
+          "w": 0.0642,
+          "h": 0.0969,
+          "name": "Hongo rojo"
+        },
+        {
+          "x": 0.3172,
+          "y": 0.3331,
+          "w": 0.0342,
+          "h": 0.0905,
+          "name": "Poción verde"
+        },
+        {
+          "x": 0.9182,
+          "y": 0.3299,
+          "w": 0.0556,
+          "h": 0.2138,
+          "name": "Pluma dorada"
+        }
+      ],
+      "decoys": [
+        {
+          "x": 0.7915,
+          "y": 0.1919,
+          "w": 0.0424,
+          "h": 0.1406,
+          "name": "Moco verde"
+        },
+        {
+          "x": 0.4807,
+          "y": 0.1367,
+          "w": 0.0394,
+          "h": 0.0616,
+          "name": "Cristal falso"
+        },
+        {
+          "x": 0.0193,
+          "y": 0.2433,
+          "w": 0.1652,
+          "h": 0.2748,
+          "name": "Caldero"
+        }
+      ]
+    },
+    {
+      "type": "trace",
+      "pattern": "star",
+      "prompt": "Traza la estrella del hechizo sin levantar el dedo",
+      "image": "challenges/img/ritual.webp"
+    }
+  ]
+}

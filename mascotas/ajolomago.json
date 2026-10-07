@@ -1,0 +1,187 @@
+{
+  "name": "Ajolomago",
+  "price": 400,
+  "challenge": "invocar_ajolomago",
+  "lines": {
+    "inicio": [
+      [
+        "¡Que empiece la magia!",
+        "Mis bigotes mágicos dicen que aquí hay secretos."
+      ],
+      [
+        "Abracadabra…",
+        "Abre bien los ojos, aprendiz. ¡Hay objetos escondidos!"
+      ]
+    ],
+    "racha": [
+      [
+        "¡Hechizo perfecto!",
+        "Uno tras otro… ¡ni mi bola de cristal lo vio venir!"
+      ],
+      [
+        "¡Magia pura!",
+        "Esa racha merece una lluvia de estrellas."
+      ]
+    ],
+    "animo": [
+      [
+        "Hmm… qué misterio",
+        "Hasta los grandes magos necesitan mirar dos veces."
+      ],
+      [
+        "El objeto se resiste",
+        "Tranquilo, debe estar usando un hechizo de camuflaje."
+      ]
+    ],
+    "ultimo": [
+      [
+        "¡Solo queda uno!",
+        "Puedo sentir su aura mágica muy cerca."
+      ],
+      [
+        "El último encantamiento",
+        "Encuéntralo y completaremos el hechizo."
+      ]
+    ],
+    "fallos": [
+      [
+        "¡Ups, magia inestable!",
+        "Mejor apunta con calma antes de convertir algo en rana."
+      ],
+      [
+        "Eso no estaba en el grimorio",
+        "Respira, observa y vuelve a intentarlo."
+      ]
+    ],
+    "falso": [
+      [
+        "¡Ilusión mágica!",
+        "Ese objeto solo quería engañarte."
+      ],
+      [
+        "¡Un impostor encantado!",
+        "Muy astuto… pero ahora ya conocemos su truco."
+      ]
+    ],
+    "temblor": [
+      [
+        "¡Por las barbas de Merlín!",
+        "¡Mi hechizo está haciendo temblar todo!"
+      ],
+      [
+        "¡Magia descontrolada!",
+        "Sujétate, aprendiz. Esto se va a mover."
+      ]
+    ],
+    "brujula": [
+      [
+        "¡Brújula encantada!",
+        "Que la magia señale el camino."
+      ],
+      [
+        "Sigue la aguja",
+        "Ni el mejor mago rechaza una pequeña ayuda."
+      ]
+    ],
+    "congelar": [
+      [
+        "¡Congelatus!",
+        "El tiempo obedecerá… por un momento."
+      ],
+      [
+        "¡Todo quieto!",
+        "Un pequeño hechizo de hielo nos dará ventaja."
+      ]
+    ],
+    "radar": [
+      [
+        "¡Orbe revelador!",
+        "Muéstranos dónde se esconden los secretos."
+      ],
+      [
+        "Detecto una presencia…",
+        "El radar mágico ha despertado."
+      ]
+    ],
+    "tiempo": [
+      [
+        "¡El hechizo se acaba!",
+        "¡Diez segundos, rápido!"
+      ],
+      [
+        "¡Se agota la magia!",
+        "Corre, aprendiz. ¡El tiempo desaparece!"
+      ]
+    ],
+    "victoria": [
+      [
+        "¡Victoria arcana!",
+        "Sabía que tenías magia en las manos."
+      ],
+      [
+        "¡Reto superado!",
+        "El consejo de magos estaría impresionado."
+      ]
+    ],
+    "derrota": [
+      [
+        "El hechizo falló…",
+        "No importa. Todo gran mago aprende de sus errores."
+      ],
+      [
+        "Casi lo teníamos",
+        "Sacude las branquias y volvamos a intentarlo."
+      ]
+    ],
+    "compra": [
+      [
+        "¡Nueva reliquia!",
+        "Una buena compra puede cambiar una aventura."
+      ],
+      [
+        "¡Tesoro adquirido!",
+        "Lo guardaré junto a mis artefactos mágicos."
+      ]
+    ],
+    "sin_monedas": [
+      [
+        "La bolsa está ligera",
+        "Necesitamos unas cuantas monedas más."
+      ],
+      [
+        "Falta poder adquisitivo",
+        "Ni la magia puede crear monedas gratis… creo."
+      ]
+    ],
+    "premio_pistas": [
+      [
+        "¡Conocimiento adquirido!",
+        "Las estrellas nos han concedido nuevas pistas."
+      ],
+      [
+        "¡Más pistas!",
+        "Un pequeño sacrificio audiovisual por un gran poder mágico."
+      ]
+    ],
+    "premio_monedas": [
+      [
+        "¡Lluvia de monedas!",
+        "Eso sí que es alquimia rentable."
+      ],
+      [
+        "¡Oro invocado!",
+        "Mi hechizo económico funcionó a la perfección."
+      ]
+    ],
+    "sin_videos": [
+      [
+        "El oráculo está dormido",
+        "Parece que ahora no tiene nada que mostrarnos."
+      ],
+      [
+        "Nada en el cristal…",
+        "Habrá que volver a consultar al oráculo después."
+      ]
+    ]
+  }
+}
