@@ -1,0 +1,89 @@
+{
+  "title": "¿Dr. casi igual?",
+  "image": "nivel17.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Dr casi",
+      "x": 0.5957,
+      "y": 0.3108,
+      "w": 0.1512,
+      "h": 0.3391,
+      "icon": "icons/nivel17_1.webp",
+      "iconSource": "Dr casi.png"
+    },
+    {
+      "name": "Baston",
+      "x": 0.0602,
+      "y": 0.5619,
+      "w": 0.0733,
+      "h": 0.265,
+      "icon": "icons/nivel17_2.webp",
+      "iconSource": "baston.png"
+    },
+    {
+      "name": "Flores",
+      "x": 0.8488,
+      "y": 0.4392,
+      "w": 0.071,
+      "h": 0.0799,
+      "iconSource": "canasta de flores.png",
+      "icon": "icons/nivel17_3.webp"
+    },
+    {
+      "name": "Ajedrez",
+      "x": 0.1412,
+      "y": 0.82,
+      "w": 0.0386,
+      "h": 0.1169,
+      "iconSource": "pieza de ajedrez.png",
+      "icon": "icons/nivel17_4.webp"
+    },
+    {
+      "name": "Papel",
+      "x": 0.2832,
+      "y": 0.6487,
+      "w": 0.0494,
+      "h": 0.0637,
+      "icon": "icons/nivel17_5.webp",
+      "iconSource": "papel.png"
+    },
+    {
+      "name": "Gnomo",
+      "x": 0.6319,
+      "y": 0.7274,
+      "w": 0.0502,
+      "h": 0.1146,
+      "icon": "icons/nivel17_6.webp",
+      "iconSource": "gnomo.png"
+    },
+    {
+      "name": "Osito",
+      "x": 0.1937,
+      "y": 0.2737,
+      "w": 0.037,
+      "h": 0.066,
+      "icon": "icons/nivel17_7.webp",
+      "iconSource": "osito.png"
+    },
+    {
+      "name": "Reloj",
+      "x": 0.5517,
+      "y": 0.2633,
+      "w": 0.0332,
+      "h": 0.0613,
+      "icon": "icons/nivel17_8.webp",
+      "iconSource": "reloj.png"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Dr casi",
+      "x": 0.3333,
+      "y": 0.0272,
+      "w": 0.0957,
+      "h": 0.1354
+    }
+  ],
+  "story": "Algo raro pasa frente a esta farmacia, entre medicamentos, flores y objetos que definitivamente no deberían estar ahí, alguien dejó todo hecho un caos y parece que cada rincón esconde algo distinto, observa bien porque aquí hasta lo más normal puede terminar siendo sospechoso...\n\nDe repente me dieron ganas de bailar, espera un momento, ¿alguien está evitando los derechos de autor?"
+}
