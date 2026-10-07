@@ -1,0 +1,117 @@
+{
+  "title": "Dia de muertos",
+  "image": "nivel16.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Cactus",
+      "x": 0.091,
+      "y": 0.2205,
+      "w": 0.0386,
+      "h": 0.0868,
+      "icon": "icons/nivel16_1.webp",
+      "iconSource": "cactus.png"
+    },
+    {
+      "name": "Mariachi",
+      "x": 0.9522,
+      "y": 0.3177,
+      "w": 0.0455,
+      "h": 0.1458,
+      "icon": "icons/nivel16_2.webp",
+      "iconSource": "mariachi.png"
+    },
+    {
+      "name": "Acordeon",
+      "x": 0.8869,
+      "y": 0.5021,
+      "w": 0.1131,
+      "h": 0.1435,
+      "icon": "icons/nivel16_3.webp",
+      "iconSource": "acordeon.png"
+    },
+    {
+      "name": "Casete",
+      "x": 0.5212,
+      "y": 0.8841,
+      "w": 0.0833,
+      "h": 0.0891,
+      "iconSource": "caset.png",
+      "icon": "icons/nivel16_4.webp"
+    },
+    {
+      "name": "Craneo",
+      "x": 0.451,
+      "y": 0.4246,
+      "w": 0.0494,
+      "h": 0.1123,
+      "icon": "icons/nivel16_5.webp",
+      "iconSource": "craneo.png"
+    },
+    {
+      "name": "Pan de muerto",
+      "x": 0.7557,
+      "y": 0.3667,
+      "w": 0.0856,
+      "h": 0.0718,
+      "icon": "icons/nivel16_6.webp",
+      "iconSource": "pan de muerto.png"
+    },
+    {
+      "name": "Luna",
+      "x": 0.0173,
+      "y": 0.0808,
+      "w": 0.0579,
+      "h": 0.1088,
+      "icon": "icons/nivel16_7.webp",
+      "iconSource": "luna.png"
+    },
+    {
+      "name": "Cruz",
+      "x": 0.4078,
+      "y": 0.0924,
+      "w": 0.017,
+      "h": 0.0255,
+      "icon": "icons/nivel16_8.webp",
+      "iconSource": "cruz.png"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Craneo",
+      "x": 0.2735,
+      "y": 0.6283,
+      "w": 0.0772,
+      "h": 0.1065
+    },
+    {
+      "name": "Craneo",
+      "x": 0.8746,
+      "y": 0.3633,
+      "w": 0.0509,
+      "h": 0.0856
+    },
+    {
+      "name": "Craneo",
+      "x": 0.7496,
+      "y": 0.3077,
+      "w": 0.0386,
+      "h": 0.0694
+    },
+    {
+      "name": "Pan de muerto",
+      "x": 0.1199,
+      "y": 0.6445,
+      "w": 0.1466,
+      "h": 0.0775
+    },
+    {
+      "name": "Cruz",
+      "x": 0.4787,
+      "y": 0.0739,
+      "w": 0.0201,
+      "h": 0.022
+    }
+  ],
+  "story": "La noche se llenó de velas, flores y recuerdos, las ofrendas están listas y cada rincón guarda algo especial, entre calaveras, pan, retratos y música hay objetos que parecen haberse escondido entre tanta celebración, observa con atención y ayuda a encontrar todo antes de que termine la noche, y recuerdame....."
+}
