@@ -1,0 +1,105 @@
+{
+  "title": "Patio de juegos perruno",
+  "image": "nivel15.webp",
+  "parTimeSec": 90,
+  "items": [
+    {
+      "name": "Chihuahua",
+      "x": 0.8194,
+      "y": 0.327,
+      "w": 0.0795,
+      "h": 0.1852,
+      "icon": "icons/nivel15_1.webp",
+      "iconSource": "chihuahua.png"
+    },
+    {
+      "name": "Mariposa",
+      "x": 0.189,
+      "y": 0.1441,
+      "w": 0.0563,
+      "h": 0.0775,
+      "icon": "icons/nivel15_2.webp",
+      "iconSource": "mariposa.png"
+    },
+    {
+      "name": "Molino",
+      "x": 0.6674,
+      "y": 0.0503,
+      "w": 0.0355,
+      "h": 0.0984,
+      "icon": "icons/nivel15_3.webp",
+      "iconSource": "molino.png"
+    },
+    {
+      "name": "Koi",
+      "x": 0.7307,
+      "y": 0.8073,
+      "w": 0.0702,
+      "h": 0.0694,
+      "icon": "icons/nivel15_4.webp",
+      "iconSource": "koi.png"
+    },
+    {
+      "name": "Girasol",
+      "x": 0.9097,
+      "y": 0.1024,
+      "w": 0.0386,
+      "h": 0.1435,
+      "iconSource": "girasol brillante.png",
+      "icon": "icons/nivel15_5.webp"
+    },
+    {
+      "name": "Pajaro",
+      "x": 0.5085,
+      "y": 0.0446,
+      "w": 0.0432,
+      "h": 0.0567,
+      "icon": "icons/nivel15_6.webp",
+      "iconSource": "pajaro.png"
+    },
+    {
+      "name": "Huella",
+      "x": 0.4267,
+      "y": 0.2228,
+      "w": 0.0455,
+      "h": 0.0637,
+      "icon": "icons/nivel15_7.webp",
+      "iconSource": "huella.png"
+    },
+    {
+      "name": "Premio",
+      "x": 0.0872,
+      "y": 0.7471,
+      "w": 0.0532,
+      "h": 0.0509,
+      "icon": "icons/nivel15_8.webp",
+      "iconSource": "premio.png"
+    },
+    {
+      "name": "Perrito",
+      "x": 0.4923,
+      "y": 0.1557,
+      "w": 0.1034,
+      "h": 0.1562,
+      "icon": "icons/nivel15_9.webp",
+      "iconSource": "perrito.png"
+    }
+  ],
+  "decoys": [
+    {
+      "name": "Girasol",
+      "x": 0.706,
+      "y": 0.092,
+      "w": 0.0725,
+      "h": 0.1088
+    },
+    {
+      "name": "Girasol",
+      "x": 0.3611,
+      "y": 0.2193,
+      "w": 0.0532,
+      "h": 0.0775
+    }
+  ],
+  "story": "En este patio nadie sabe quién empezó el desastre, los perros corrieron de un lado a otro, escondieron juguetes, movieron pelotas y dejaron cosas por todas partes, ahora toca revisar cada rincón, recuperar lo perdido y descubrir qué travieso convirtió el jardín en su propio campo de aventuras"
+}
